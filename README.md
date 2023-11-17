@@ -11,6 +11,6 @@
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhkek567&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=dhkek567&show_icons=true">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
